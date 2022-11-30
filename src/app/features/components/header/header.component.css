@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+}
+
+.header-cabecalho{
+    
+    top:0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 18px;
+    background-color: #0076CE;
+    width: 1526px;
+    height: 68px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    z-index: 10;
+}
+
+.header-cabecalho-left-content{
+    
+    width: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 24px;
+    padding-left: 1%;
+
+}
+
+
+.header-cabecalho-linha-vertical{
+    height: 30px;
+    width: 12px;
+    border-left: 1px solid #ffffff;
+    
+}
+.header-cabecalho-nome{
+    height: 34px;
+    width: 150px;
+    white-space: nowrap;
+    color: #ffffff;
+}
+
+
+.header-cabecalho-menu{
+    display: flex;
+    justify-content: center;
+    gap: 2.5px;
+    padding-left: 200px;
+}
+
+.header-cabecalho-menu-item{
+    justify-content: center;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+}
+
+
+
+
+.header-cabecalho-menu-item:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
+.header-cabecalho-right{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    color: white;
+    width: 60%;
+    gap: 20%;
+    padding-left: 33%;
+}
+
+.header-cabecalho--right-linha-vertical{
+    height: 30px;
+    width: 1%;
+    border-left: 1px solid #ffffff;
+    padding-right: 2%;
+}
+
+.header-cabecalho-right-logout-img{
+    height: 70%;
+    width: auto;
+}
+
+
+.header-cabecalho-right-logout{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+    height: 150px;
+    
+    cursor: pointer;
+}
+.header-cabecalho-right-acessibilidadeBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+    gap: 15%;
+    width: 40%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+ 
+:target {
+  scroll-margin-top: 3em;
+}
+
+.produtos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: #0076CE;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.btn-dropdown{
+    color: #fff;
+    background-color: #0076CE;
+    display: inline-block;
+    font-weight: 500;
+    text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+    border: none;
+    
+}
+
