@@ -82,7 +82,7 @@ Tecnologias usadas nesse projeto:
 
 ## Links
 
-  <a href="https://github.com/IsabeleOliveira/LeadMentoringPetShopAplication" target="_blank" rel="noopener noreferrer">API</a><br>
+  <a href="(https://github.com/IsabeleOliveira/API-PetShopLead.git)" target="_blank" rel="noopener noreferrer">API</a><br>
   
 
 ## Authors
