@@ -74,6 +74,11 @@ Tecnologias usadas nesse projeto:
 
 ![Dashboard](/src/assets/README/pets.png)
 
+### 7 - Pets - Ver mais
+
+![Dashboard](/src/assets/README/vermaisPet.png)
+
+
 
 ## Links
 
