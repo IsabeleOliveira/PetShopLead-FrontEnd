@@ -33,7 +33,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-## [LEAD MENTORING] - Petshop
+
+## [PETSHOP-LEAD]
+
 Esse projeto foi proposto pelo Christian Castro, mentor do programa Lead Mentoring, e consistia na criação de uma aplicação FullStack para Petshops. 
 
 ## Tecnologias 
